@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanmoybhow
+- 👋 Hi, I’m Tanmoy Bhowmik
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php and mysql
 
